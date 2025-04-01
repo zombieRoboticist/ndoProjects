@@ -1,0 +1,18 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'bib.blg'
+[99] biber-MSWIN64:340> INFO - === 
+[129] Biber.pm:420> INFO - Reading 'bib.bcf'
+[223] Biber.pm:994> INFO - Found 2 citekeys in bib section 0
+[235] Biber.pm:4463> INFO - Processing section 0
+[246] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
+[300] bibtex.pm:1713> INFO - LaTeX decoding ...
+[310] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
+[356] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[357] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[357] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[357] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[358] bbl.pm:676> INFO - Writing 'bib.bbl' with encoding 'UTF-8'
+[359] bbl.pm:779> INFO - Output to bib.bbl
+[360] Biber.pm:131> WARN - legacy year field 'September, 2024' in entry 'lab1doc' is not an integer - this will probably not sort properly.
+[360] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\burle\AppData\Local\Temp\biber_tmp_ekQE\283e1cb250985c2debc501124f55eeff_28896.utf8, line 13, warning: undefined macro "https://www.mathworks.com/help/optim/ug/fmincon.html"
+[360] Biber.pm:133> INFO - WARNINGS: 2

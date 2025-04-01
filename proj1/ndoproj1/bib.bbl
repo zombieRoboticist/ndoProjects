@@ -1,0 +1,63 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{matlab}{misc}{}{}
+      \list{institution}{1}{%
+        {MathWorks}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MathWorks Help Website}
+      \field{title}{fmincon}
+      \field{year}{2023}
+    \endentry
+    \entry{lab1doc}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d2a858291e69357df3a2ea71f50b935}{%
+           family={Hicken},
+           familyi={H\bibinitperiod},
+           given={Dr.\bibnamedelimi Jason},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rensselaer Polytechnic Institute}%
+      }
+      \strng{namehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{fullhash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{fullhashraw}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{bibnamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorbibnamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authornamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorfullhash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorfullhashraw}{1d2a858291e69357df3a2ea71f50b935}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MANE 6710 Course LMS Website}
+      \field{title}{MANE 4280/6710: Numerical Design Optimization lab 1}
+      \field{year}{September, 2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

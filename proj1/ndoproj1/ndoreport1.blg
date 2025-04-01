@@ -1,0 +1,18 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'ndoreport1.blg'
+[130] biber-MSWIN64:340> INFO - === 
+[160] Biber.pm:420> INFO - Reading 'ndoreport1.bcf'
+[254] Biber.pm:994> INFO - Found 2 citekeys in bib section 0
+[268] Biber.pm:4463> INFO - Processing section 0
+[278] Biber.pm:4654> INFO - Looking for bibtex file 'ndoreport1.bib' for section 0
+[327] bibtex.pm:1713> INFO - LaTeX decoding ...
+[338] bibtex.pm:1519> INFO - Found BibTeX data source 'ndoreport1.bib'
+[376] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[376] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[377] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[377] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[378] bbl.pm:676> INFO - Writing 'ndoreport1.bbl' with encoding 'UTF-8'
+[379] bbl.pm:779> INFO - Output to ndoreport1.bbl
+[379] Biber.pm:131> WARN - legacy year field 'September, 2024' in entry 'lab1doc' is not an integer - this will probably not sort properly.
+[380] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\burle\AppData\Local\Temp\biber_tmp_fwvO\ab64641978450171d33a609d5c1605bb_8068.utf8, line 13, warning: undefined macro "https://www.mathworks.com/help/optim/ug/fmincon.html"
+[380] Biber.pm:133> INFO - WARNINGS: 2

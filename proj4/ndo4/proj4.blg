@@ -1,0 +1,20 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'proj4.blg'
+[84] biber-MSWIN64:340> INFO - === 
+[114] Biber.pm:420> INFO - Reading 'proj4.bcf'
+[198] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
+[209] Biber.pm:4463> INFO - Processing section 0
+[219] Biber.pm:4654> INFO - Looking for bibtex file 'proj4.bib' for section 0
+[261] bibtex.pm:1713> INFO - LaTeX decoding ...
+[273] bibtex.pm:1519> INFO - Found BibTeX data source 'proj4.bib'
+[313] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[313] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[313] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[314] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[335] bbl.pm:676> INFO - Writing 'proj4.bbl' with encoding 'UTF-8'
+[337] bbl.pm:779> INFO - Output to proj4.bbl
+[337] Biber.pm:131> WARN - legacy year field 'October, 2024' in entry 'lab2' is not an integer - this will probably not sort properly.
+[337] Biber.pm:131> WARN - legacy year field 'November, 2024' in entry 'lab4doc' is not an integer - this will probably not sort properly.
+[337] Biber.pm:131> WARN - legacy year field 'October, 2024' in entry 'lab2doc' is not an integer - this will probably not sort properly.
+[337] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\burle\AppData\Local\Temp\biber_tmp_1QSA\06f7ca76fe8ca7057a60f14a178a6540_3480.utf8, line 13, warning: undefined macro "https://www.mathworks.com/help/optim/ug/fmincon.html"
+[338] Biber.pm:133> INFO - WARNINGS: 4

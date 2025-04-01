@@ -1,0 +1,136 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{lab2}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=450ffc52e22cad52f28be76988e8eefc}{%
+           family={6966},
+           familyi={6\bibinitperiod},
+           given={Human},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rensselaer Polytechnic Institute}%
+      }
+      \strng{namehash}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{fullhash}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{fullhashraw}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{bibnamehash}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{authorbibnamehash}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{authornamehash}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{authorfullhash}{450ffc52e22cad52f28be76988e8eefc}
+      \strng{authorfullhashraw}{450ffc52e22cad52f28be76988e8eefc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MANE 6710 Course LMS Website}
+      \field{title}{MANE 6710: Numerical Design Optimization lab 2}
+      \field{year}{October, 2024}
+    \endentry
+    \entry{gauss}{misc}{}{}
+      \list{institution}{1}{%
+        {efunda}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Website}
+      \field{title}{Abscissas and weights of gauss-hermite integration}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.efunda.com/math/num\_integration/findgausshermite.cfm.
+      \endverb
+      \verb{url}
+      \verb https://www.efunda.com/math/num%5C_integration/findgausshermite.cfm.
+      \endverb
+    \endentry
+    \entry{lab4doc}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d2a858291e69357df3a2ea71f50b935}{%
+           family={Hicken},
+           familyi={H\bibinitperiod},
+           given={Dr.\bibnamedelimi Jason},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rensselaer Polytechnic Institute}%
+      }
+      \strng{namehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{fullhash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{fullhashraw}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{bibnamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorbibnamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authornamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorfullhash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorfullhashraw}{1d2a858291e69357df3a2ea71f50b935}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MANE 6710 Course LMS Website}
+      \field{title}{MANE 4280/6710: Numerical Design Optimization lab 4}
+      \field{year}{November, 2024}
+    \endentry
+    \entry{lab2doc}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d2a858291e69357df3a2ea71f50b935}{%
+           family={Hicken},
+           familyi={H\bibinitperiod},
+           given={Dr.\bibnamedelimi Jason},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rensselaer Polytechnic Institute}%
+      }
+      \strng{namehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{fullhash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{fullhashraw}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{bibnamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorbibnamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authornamehash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorfullhash}{1d2a858291e69357df3a2ea71f50b935}
+      \strng{authorfullhashraw}{1d2a858291e69357df3a2ea71f50b935}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MANE 6710 Course LMS Website}
+      \field{title}{MANE 4280/6710: Numerical Design Optimization lab 2}
+      \field{year}{October, 2024}
+    \endentry
+    \entry{matlab}{misc}{}{}
+      \list{institution}{1}{%
+        {MathWorks}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MathWorks Help Website}
+      \field{title}{fmincon}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
